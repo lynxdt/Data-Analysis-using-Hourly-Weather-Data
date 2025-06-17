@@ -2,7 +2,7 @@
 #TP no. TP053944
 
 #importing data from the .csv file
-weatherData = read.csv(file = "Hourly weather data.csv", head=TRUE)
+weatherData = read.csv(file = "4. Hourly weather data.csv", head=TRUE)
 View(weatherData)
  
 #installing and loading necessary packages 
