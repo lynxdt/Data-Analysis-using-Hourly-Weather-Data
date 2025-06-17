@@ -1,5 +1,4 @@
 #Name: Advait Brijesh Marathe
-#TP no. TP053944
 
 #importing data from the .csv file
 weatherData = read.csv(file = "4. Hourly weather data.csv", head=TRUE)
